@@ -1,6 +1,6 @@
 # Hospitality Performance Overview
 
-![Hospitality Dashboard Preview](./dashboard-preview.svg)
+![Hospitality Dashboard Preview](./Images/dashboard.png)
 
 This project is a Power BI dashboard built to analyze hospitality business performance across revenue, bookings, occupancy, realization, ADR, and RevPAR. The report is designed for quick executive review with KPI cards, trend visuals, city and category comparisons, weekday revenue patterns, and weekly operational breakdowns.
 
@@ -11,15 +11,6 @@ This project is a Power BI dashboard built to analyze hospitality business perfo
 - Compares realized and booked revenue over time.
 - Breaks revenue down by city, day name, category, and room class.
 - Includes weekly operational performance metrics such as `DBRN`, `DURN`, `BRN`, and `RevPAR`.
-
-## Project Files
-
-- [Hospitality Dashboard.pbix](C:/Users/Mohit%20Yadav/Downloads/Hospitality%20Dashboard.pbix)
-- [dim_date.csv](./dim_date.csv)
-- [dim_hotels.csv](./dim_hotels.csv)
-- [dim_rooms.csv](./dim_rooms.csv)
-- [fact_bookings.csv](./fact_bookings.csv)
-- [fact_aggregated_bookings.csv](./fact_aggregated_bookings.csv)
 
 ## Data Model
 
@@ -82,6 +73,5 @@ The dashboard is built for fast scanning:
 
 ## Contact
 
-**Mohit Yadav**  
-Email: [mohit.my1802@gmail.com](mailto:mohit.my1802@gmail.com)
+
 
