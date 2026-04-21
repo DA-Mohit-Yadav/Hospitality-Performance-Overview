@@ -73,5 +73,16 @@ The dashboard is built for fast scanning:
 
 ## Contact
 
+<p align="left">
+  <a href="https://github.com/DA-Mohit-Yadav" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-DA--Mohit--Yadav-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohit-yadav-0394b224a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohit%20Yadav-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:mohitkaninwal12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mohitkaninwal12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-
+If you'd like to collaborate, discuss machine learning projects, or connect professionally, feel free to reach out.
